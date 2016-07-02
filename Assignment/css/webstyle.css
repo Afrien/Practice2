@@ -1,0 +1,100 @@
+.header {
+	position:fixed;
+background-image: url("../images/backhead.jpg");
+}
+header nav ul li{
+	list-style: none;
+	display: inline;
+
+}
+.primary
+{
+	margin-top: 50px;
+	margin-left:240px;
+	margin-right:50px;
+}
+header nav a:hover{
+	color: green;
+}
+.navigation
+{
+	margin-top: 10px;
+}
+
+
+body{
+	background-image: url("../images/back2.jpg");
+}
+header h1{
+	color:green;
+}
+ li a{
+	color:white;
+}
+.hero img{
+	margin :-100px;
+	height: 550px;
+	width:140%;
+}
+.col{
+
+	height: 1700px;
+}
+.col img{
+	margin-left:35px;
+	height:600px;
+	width:300px;
+}
+.secondary{
+	margin-left: 200px;
+}
+
+.row img{
+	
+	height:50px;
+	width:50px;
+}
+.one{
+	width:-400px;
+	height:50px;
+	margin-top: 50px;
+	margin-right: 50px;
+}
+.two {
+width:-400px;
+	height:50px;
+	margin-top: 50px;
+	margin-right: 30px;
+}
+.three {
+	width:-400px;
+	height:50px;
+	margin-top: 50px;
+	margin-right: 70px;
+
+}
+
+section{
+	margin:100px 150px;
+}
+footer{
+	color: black;
+	width:100%;
+	
+	padding:1rem;
+	background-color: #90ee90 ;
+	text-align:center;
+	height:200px;
+
+}
+
+footer img
+{
+	float:right;
+	height:40px
+	width:40px;
+}
+footer h3{
+	float:left;
+	margin-left: 700px;
+}
